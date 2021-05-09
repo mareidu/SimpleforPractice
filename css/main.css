@@ -1,0 +1,13 @@
+@import url("reset.css");
+@import url("global-forms.css");
+
+body {
+    background: #F5F4EF;
+    color: #000305;
+    font-size: 87.5%;
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicde', 'Lucida';
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
